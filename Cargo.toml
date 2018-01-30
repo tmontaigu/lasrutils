@@ -1,0 +1,9 @@
+[package]
+name = "lasrustils"
+version = "0.1.0"
+authors = ["Jälv <thomas.montaigu@laposte.net>"]
+
+[dependencies]
+las = "0.5"
+progress = "0.2.0"
+kdtree = "0.4.0"
